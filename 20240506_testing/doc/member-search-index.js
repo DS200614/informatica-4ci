@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"meucci.it","c":"Rettangolo","l":"calcoloArea(int, int)","u":"calcoloArea(int,int)"},{"p":"meucci.it","c":"Rettangolo","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"meucci.it","c":"Rettangolo","l":"Rettangolo()","u":"%3Cinit%3E()"}];updateSearchResults();
